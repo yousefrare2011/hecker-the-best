@@ -1,0 +1,8 @@
+title: Hecker the Best
+description: A simple Jekyll site for the Hecker the Best project.
+baseurl: ""
+url: "https://yousefrare2011.github.io/hecker-the-best"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
